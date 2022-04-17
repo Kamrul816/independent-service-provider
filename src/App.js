@@ -1,25 +1,22 @@
+import { Route, Routes } from 'react-router-dom';
 import './App.css';
-import app from './firebase.init';
-import {getAuth, GoogleAuthProvider, signInWithPopup} from 'firebase/auth';
+import About from './Pages/About/About';
+import Home from './Pages/Home/Home/Home';
+import Header from './Pages/Shared/Header/Header';
+import Footer from './Pages/Shared/Footer/Footer'
+import NotFound from './Pages/NotFound/NotFound';
 
-const auth = getAuth(app);
 
 function App() {
-  const provider = new GoogleAuthProvider();
-
-  const handleGoogleSignIn = () =>{
-    signInWithPopup(auth, provider)
-    .then(result =>{
-      const user = result.user;
-      console.log(user)
-    })
-    .catch(error =>{
-      console.log('error', error);
-    })
-  }
   return (
-    <div className="App">
-      <button onClick={handleGoogleSignIn}>Google Sign in</button>
+    <div>
+      <Header></Header>
+      <Routes>
+        <Route path="/" element={<Home></Home>}></Route>
+        <Route path="/about" element={<About></About>}></Route>
+        <Route path='*' element={<NotFound></NotFound>}></Route>
+      </Routes>
+      <Footer></Footer>
     </div>
   );
 }
