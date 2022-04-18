@@ -2,37 +2,44 @@
     {
         "id":1,
         "name" : "Tom Wickham",
-        "img": "https://i.ibb.co/4s02KL5/professional-asian-doctor-medical-professionals-team-brainstorming-meeting.jpg",
-        "comment":"It can be a little tight getting them in & out since it doesn't unzip all the way around. So far, I'm very happy with these headphones!..."
+        "price" : "100",
+        "description" : "" ,
+        "img": "https://i.ibb.co/rFqj8ph/smiling-friendly-pharmacist-pointing-finger-bottle-with-tablets.jpg"
     },
     {
         "id":2,
         "name" : "Matt Dawson",
-        "img": "https://i.ibb.co/Hq92K6V/young-asian-lady-doctor-wearing-protective-mask-using-clipboard-discussing-results-symptoms-with-gir.jpg",
-        "comment": "I got one for my husband and my daughter. I like this style so the beats does it really stand out too much making them look and I like I'm trying to push the product but they are awesome..."
+        "price" : "200",
+        "description" : "" ,
+        "img": "https://i.ibb.co/BG62TmJ/portrait-happy-male-doctor-dressed-uniform.jpg" 
+        
     },
     {
         "id":3,
         "name" : "Joshua Beltz",
-        "img": "https://i.ibb.co/2FxRFV8/beautiful-smart-asian-doctor-patient-discussing-explaining-something-with-tablet.jpg",
-        "comment":"They are comfortable to wear and my daughters ears aren't super small. Also she loves that she can answer calls and still hear her music playing as well as hearing the caller. Overall these are great headphones and would recommend...."
+        "price" : "300",
+        "description" : "" ,
+        "img": "https://i.ibb.co/Kqv4k0H/close-up-portrait-confident-young-male-doctor.jpg"
     },
     {
         "id":4,
         "name" : "Jacob Whetton",
-        "img": "https://img.freepik.com/free-photo/success-concept-side-profile-photo-young-handsome-man-formal-wear-standing-pure-blue-space-copyspace_274222-2673.jpg",
-        "comment":"I've been using the same Samsung Level On Pro headphones for YEARS! The worked great & technically still do (w/electrical tape!) but after them slipping off my head one too many times, both sides of the headband broke..."
+        "price" : "400",
+        "description" : "" ,
+        "img": "https://i.ibb.co/WWrtFgZ/portrait-friendly-male-doctor-dressed-uniform.jpg"
     },
     {
         "id":5,
         "name" : "Dylan Martin",
-        "img": "https://c.stocksy.com/a/rMkB00/z9/2799849.jpg",
-        "comment":"The battery life on these are amazing. I use them daily for at least two to three hours and it seem like they never go dead. I walk the trails with them clean the house with them on..."
+        "price" : "500",
+        "description" : "" ,
+        "img": "https://i.ibb.co/q5zzHBv/portrait-smiling-young-man-doctor-with-stethoscope-standing-with-arms-folded.jpg"
     },
     {
         "id":6,
         "name" : "Jeremy Hayward",
-        "img": "https://i.pinimg.com/564x/7a/f0/3d/7af03d4c296d1520decb678eb6321e5f.jpg",
-        "comment":"I’m not sure what other reviewers are talking about when they write about how bad these headphones are. These sound great..."
+        "price" : "600",
+        "description" : "" ,
+        "img": "https://i.ibb.co/sR1phdt/portrait-smiling-male-doctor.jpg"
     }
 ]

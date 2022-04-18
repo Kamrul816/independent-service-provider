@@ -1,3 +1,16 @@
+.service{
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
 .image {
     width: 400px;
+}
+button{
+    background-color: cornflowerblue;
+    color: #fff;
+    padding: 8px;
+    border-radius: 5px;
 }
