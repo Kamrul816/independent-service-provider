@@ -5,7 +5,7 @@ import logo from '../../../images/logo.png'
 const Header = () => {
     return (
         <>
-  <Navbar bg="primary" variant="dark">
+  <Navbar bg="primary sticky-top" variant="dark">
     <Container>
     <Navbar.Brand href="#home">
         <img src={logo} height ="80" alt="" />
