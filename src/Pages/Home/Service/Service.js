@@ -7,8 +7,8 @@ const Service = ({service}) => {
         <div className='service'>
             <img className='image' src={img} alt="" />
             <h2>{name}</h2>
-            <p>Price: {price}</p>
-            <p><small>{description}</small></p>
+            <h4>Price: $ {price}</h4>
+            <p className='description'><small>{description}</small></p>
             <button>Book: {name}</button>
         </div>
     );

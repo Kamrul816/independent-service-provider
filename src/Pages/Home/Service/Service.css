@@ -8,6 +8,10 @@
 .image {
     width: 400px;
 }
+
+.description{
+   text-align: center;
+}
 button{
     background-color: cornflowerblue;
     color: #fff;

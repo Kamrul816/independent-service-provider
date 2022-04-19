@@ -1,45 +1,45 @@
 [
     {
         "id":1,
-        "name" : "Tom Wickham",
+        "name" : "Toothache",
         "price" : "100",
-        "description" : "On this website you can find information and guidance from WHO regarding the current outbreak of coronavirus disease (COVID-19) that was first reported from Wuhan, China, on 31 December 2019." ,
-        "img": "https://i.ibb.co/rFqj8ph/smiling-friendly-pharmacist-pointing-finger-bottle-with-tablets.jpg"
+        "description" : "You've made a dentist appointment, and it can't come soon enough. Meanwhile, it can help to rinse your mouth with warm water, floss to remove food caught between teeth, and take an over-the-counter pain reliever. If you notice swelling or pus around the tooth, or if you have a fever, that could be a sign that you have an abscess, a more serious problem. See your dentist as soon as possible. You may need antibiotics as well as other treatments." ,
+        "img": "https://i.ibb.co/rHK8WJc/dentist-examining-female-patient.jpg"
     },
     {
         "id":2,
-        "name" : "Matt Dawson",
-        "price" : "200",
-        "description" : "Diabetes mellitus, commonly known as diabetes, is a metabolic disease that causes high blood sugar. The hormone insulin moves sugar from the blood into your cells to be stored or used for energy." ,
-        "img": "https://i.ibb.co/BG62TmJ/portrait-happy-male-doctor-dressed-uniform.jpg" 
+        "name" : "Stained Teeth",
+        "price" : "130",
+        "description" : "Your teeth are like your laundry: The right approach will remove many stains. Foods, medications, tobacco, and trauma are some of the things that can discolor your teeth.  You have three options for whitening them. Your dentist can use a whitening agent and a special light. Or you can bleach them at home with a plastic tray and gel from your dentist or a store. The simplest choice, whitening toothpaste and whitening rinses, only remove surface stains." ,
+        "img": "https://i.ibb.co/S6Jzbxb/beautiful-girl-sitting-dentist-s-office.jpg" 
         
     },
     {
         "id":3,
-        "name" : "Joshua Beltz",
-        "price" : "300",
-        "description" : " Parkinson's disease is a brain disorder that leads to shaking, stiffness, and difficulty with walking, balance, and coordination. Parkinson's symptoms usually begin gradually and get worse over time." ,
-        "img": "https://i.ibb.co/Kqv4k0H/close-up-portrait-confident-young-male-doctor.jpg"
+        "name" : "Cavities",
+        "price" : "180",
+        "description" : "These little holes in your teeth are bad news. You get them when a sticky bacteria, called plaque, builds up on your teeth, slowly destroying the hard outer shell, called enamel. Adults can also have problems with tooth decay at the gum line and around the edges of earlier fillings. To prevent it, brush your teeth at least twice a day with a fluoride toothpaste, limit snacks, floss daily, rinse with a fluoride mouthwash, and keep up with your dental appointments. Ask your dentist if you could benefit from a sealant." ,
+        "img": "https://i.ibb.co/Lpx0FXz/white-teeth.jpg"
     },
     {
         "id":4,
-        "name" : "Jacob Whetton",
-        "price" : "400",
-        "description" : "On this website you can find information and guidance from WHO regarding the current outbreak of coronavirus disease (COVID-19) that was first reported from Wuhan, China, on 31 December 2019." ,
-        "img": "https://i.ibb.co/WWrtFgZ/portrait-friendly-male-doctor-dressed-uniform.jpg"
+        "name" : "Chipped Tooth",
+        "price" : "150",
+        "description" : "It's the No. 1 type of dental injury. An accident can cause a chip. So can something much less dramatic, like chomping popcorn. Your dentist may recommend a crown if the chip is large or bonding with a strong resin material to replace the area that chipped. If the pulp is at risk, you may need a root canal followed by a veneer or crown." ,
+        "img": "https://i.ibb.co/xH3wmJz/white-teeth-1.jpg"
     },
     {
         "id":5,
-        "name" : "Dylan Martin",
-        "price" : "500",
-        "description" : "Diabetes mellitus, commonly known as diabetes, is a metabolic disease that causes high blood sugar. The hormone insulin moves sugar from the blood into your cells to be stored or used for energy." ,
-        "img": "https://i.ibb.co/q5zzHBv/portrait-smiling-young-man-doctor-with-stethoscope-standing-with-arms-folded.jpg"
+        "name" : "Impacted Teeth",
+        "price" : "220",
+        "description" : "An adult tooth that doesn't come in properly is impacted. It usually happens when a tooth is stuck against another tooth, bone, or soft tissue. If it  isn't bothering you, a dentist may recommend leaving it alone.  But if it hurts or may cause problems later on, an oral surgeon can remove it. You may need antibiotics as well as other treatments." ,
+        "img": "https://i.ibb.co/L9cJ77P/dentist-showing-something-teeth-model.jpg"
     },
     {
         "id":6,
-        "name" : "Jeremy Hayward",
-        "price" : "600",
-        "description" : " Parkinson's disease is a brain disorder that leads to shaking, stiffness, and difficulty with walking, balance, and coordination. Parkinson's symptoms usually begin gradually and get worse over time." ,
-        "img": "https://i.ibb.co/sR1phdt/portrait-smiling-male-doctor.jpg"
+        "name" : "Sensitive to Cold",
+        "price" : "200",
+        "description" : "Ice cream should taste good, not make you wince when the cold hits your teeth. The first step is to find the cause. It could be cavities, worn tooth enamel or fillings, gum disease, fractured teeth, or exposed roots. Once your dentist figures out the problem, you might need a filling, a root canal, or treatment of your gums to replace tissue lost at the root. Or you might just need a desensitizing toothpaste or strip, or a fluoride gel." ,
+        "img": "https://i.ibb.co/ZBDfqzn/dentist-examining-female-patient-teeth.jpg"
     }
 ]
