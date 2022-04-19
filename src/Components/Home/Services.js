@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 function Services(props) {
 
-    const {img,name,description,price} = props.service;
+    const {img, name, description, price} = props.service;
 
   return (
     <>
@@ -14,7 +14,9 @@ function Services(props) {
                 <h5 className="card-title">{name}</h5>
                 <p className="card-text">{description.slice(0,100)}...</p>
                 <h6 className='card-title'>Price : $ {price}</h6>
+                <dir className='d-flex justify-content-center mt-5'>
                 <Link href="#" className="btn btn-primary" to='/book'>Book Now</Link>
+                </dir>
             </div>
         </div>
       </div>
